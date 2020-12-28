@@ -22,7 +22,7 @@ I'm always working on adding new ones to the list.
 * August 2020 - Started getting into web development
 * September 2020 - Finished Frontend course
 * October 2020 - Finished Backend course
-* November 2020 - Started working on a big project, (SkySheets)[https://skysheets.com]
+* November 2020 - Started working on a big project, [SkySheets](https://skysheets.com)
 
 ---
 
